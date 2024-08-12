@@ -1,6 +1,6 @@
 # plug_in_sim
 
-Code to replicate the simulation in "Non-Plug-In Estimators Could Outperform Plug-In Estimators: a Cautionary Note and a Diagnosis: a Cautionary Note and a Diagnosis".
+Code to replicate the simulation in "Non-Plug-In Estimators Could Outperform Plug-In Estimators: a Cautionary Note and a Diagnosis".
 
 - `main_text/`: Simulation in the main text and for the TMLE with a small known bound on the outcome regression.
 - `large_Q_bound/`: Simulation for the TMLE with a relatively large known bound on the outcome regression.
